@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resource xmlns:xsi="https://www.kaggle.com/datasets/unsdsn/world-happiness">
+xmlns="https://www.kaggle.com/datasets/unsdsn/world-happiness"
+xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+	<identifier identifierType="URL"> https://www.kaggle.com/datasets/unsdsn/world-happiness </identifier>
+	<creators>
+		<creator>
+		<creatorName xml:lang="en" nameType="Organizational">Sustainable Development Solutions Network</creatorName>
+		<nameIdentifier nameIdentifierScheme="SDSN" schemeURI="https://www.unsdsn.org/">https://www.unsdsn.org/</nameIdentifier>
+		</creator>
+	</creators>
+	<titles>
+		title xml:lang="en">World Happiness Report</title>
+	</titles>
+	<subjects>
+		<subject subjectScheme="Happiness scored according to economic production, social support, etc.">Happiness scored according to economic production, social support, etc.</subject>
+<subject>Happiness scored according to economic production, social support, etc.</subject>
+	</subjects>
+	<contributors>
+		<contributor contributorType="Contributer">
+			<contributorName nameType="Personal">Larion, Abigail/contributorName>
+			<givenName>Abigail</givenName>
+			<familyName>Larion</familyName>
+	</contributors>
+	<dates>
+		<date dateType="Created">2020</date>
+		<date dateType="Updated">2020</date>
+	</dates>
+	<language>en</language>
+	<rightsList>
+		<rights xml:lang="en" schemeURI="https://creativecommons.org/publicdomain/zero/1.0/" rightsIdentifierScheme="CC0" rightsIdentifier="CC0 1.0 DEED" rightsURI="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 DEED
+CC0 1.0 Universal</rights>
+	</rightsList>
+</resource>
